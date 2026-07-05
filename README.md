@@ -79,6 +79,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak969686/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -100,4 +101,16 @@
 | ------- |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
