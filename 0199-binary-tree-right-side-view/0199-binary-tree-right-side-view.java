@@ -21,8 +21,7 @@ class Solution {
     }
     private void rightview(TreeNode root,List<Integer> ans,int currdepth){
         if(root==null) return ;
-        TreeNode node=root;
-        if(currdepth==ans.size()) ans.add(node.val);
+        if(currdepth==ans.size()) ans.add(root.val);
         rightview(root.right,ans,currdepth+1);
         rightview(root.left,ans,currdepth+1);
     }
