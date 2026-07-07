@@ -140,4 +140,8 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepak969686/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
