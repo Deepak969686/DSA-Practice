@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1288-remove-covered-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak969686/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak969686/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -134,6 +135,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -195,4 +199,9 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
