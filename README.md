@@ -13,6 +13,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -98,6 +99,7 @@
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak969686/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
