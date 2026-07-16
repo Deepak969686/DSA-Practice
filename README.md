@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -230,6 +231,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepak969686/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
