@@ -28,6 +28,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Deepak969686/DSA-Practice/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0075-sort-colors](https://github.com/Deepak969686/DSA-Practice/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepak969686/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -273,6 +277,7 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepak969686/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -293,4 +298,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
