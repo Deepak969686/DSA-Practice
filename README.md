@@ -185,6 +185,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Deepak969686/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -251,6 +252,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -274,11 +276,13 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
