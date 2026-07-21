@@ -110,6 +110,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Deepak969686/DSA-Practice/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak969686/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
