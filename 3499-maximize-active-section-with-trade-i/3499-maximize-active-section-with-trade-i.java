@@ -2,44 +2,31 @@ class Solution {
     public int maxActiveSectionsAfterTrade(String s) {
         int n = s.length();
 
-        // Count initial active sections
-        int ones = 0;
-        for (char c : s.toCharArray()) {
-            if (c == '1') ones++;
+        // existing count of 1s
+        int activeCount = 0;
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == '1') activeCount++;
         }
 
-        // Augment the string
-        String t = "1" + s + "1";
-
-        ArrayList<Character> chars = new ArrayList<>();
-        ArrayList<Integer> lens = new ArrayList<>();
-
-        // Run Length Encoding
+        List<Integer> inactiveBlocks = new ArrayList<>();
         int i = 0;
-        while (i < t.length()) {
-            char c = t.charAt(i);
-            int j = i;
-            while (j < t.length() && t.charAt(j) == c) {
-                j++;
-            }
-            chars.add(c);
-            lens.add(j - i);
-            i = j;
-        }
+        while (i < n) {
+            if (s.charAt(i) == '0') {
+                int start = i;
+                while (i < n && s.charAt(i) == '0') i++;
 
-        int ans = ones;
-
-        // Try removing every valid 1-block
-        for (i = 1; i < chars.size() - 1; i++) {
-            if (chars.get(i) == '1'
-                    && chars.get(i - 1) == '0'
-                    && chars.get(i + 1) == '0') {
-
-                int candidate = ones + lens.get(i - 1) + lens.get(i + 1);
-                ans = Math.max(ans, candidate);
+                inactiveBlocks.add(i - start);
+            } else {
+                i++;
             }
         }
 
-        return Math.min(ans, n);
+        int maxPairSum = 0;
+        // max(inactiveBlocks[i] + inactiveBlocks[i-1])
+        for (int j = 1; j < inactiveBlocks.size(); j++) {
+            maxPairSum = Math.max(maxPairSum, inactiveBlocks.get(j) + inactiveBlocks.get(j - 1));
+        }
+
+        return maxPairSum + activeCount;
     }
 }
