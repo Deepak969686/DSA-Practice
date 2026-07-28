@@ -196,6 +196,7 @@
 | [0075-sort-colors](https://github.com/Deepak969686/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -232,6 +233,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Deepak969686/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -402,6 +405,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Deepak969686/DSA-Practice/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
