@@ -100,6 +100,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -194,6 +195,7 @@
 | [0031-next-permutation](https://github.com/Deepak969686/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Deepak969686/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -374,6 +376,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
