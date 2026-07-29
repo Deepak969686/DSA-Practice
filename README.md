@@ -24,6 +24,7 @@
 | [0198-house-robber](https://github.com/Deepak969686/DSA-Practice/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepak969686/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -145,6 +147,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Deepak969686/DSA-Practice/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
