@@ -7,12 +7,19 @@ class Solution {
             int count=0;
             int sum=0;
             int num=nums[i];
-            for(int j=1;j<=num;j++){
+            for(int j=1;j*j<=num;j++){
                 if(nums[i]%j==0){
                     count++;
                     sum+=j;
+
+                    if (j != num / j) {
+                        count++;
+                        sum += num / j;
+                    }
+
+                    if (count > 4)
+                        break;
                 }
-                if(count>4) break;
             }
             if(count==4){
                 msum+=sum;
