@@ -330,6 +330,7 @@
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -340,6 +341,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Deepak969686/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
