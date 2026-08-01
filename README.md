@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -153,6 +154,7 @@
 | [0198-house-robber](https://github.com/Deepak969686/DSA-Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -309,6 +311,7 @@
 | [0050-powx-n](https://github.com/Deepak969686/DSA-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -432,6 +435,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Deepak969686/DSA-Practice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -457,4 +461,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
