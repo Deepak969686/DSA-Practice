@@ -33,6 +33,7 @@
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -158,6 +159,7 @@
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
+| [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak969686/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -314,6 +316,7 @@
 | [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -467,4 +470,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
