@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Deepak969686/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Deepak969686/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Deepak969686/DSA-Practice/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Deepak969686/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -343,6 +344,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Deepak969686/DSA-Practice/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
