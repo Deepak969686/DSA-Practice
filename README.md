@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -183,6 +184,7 @@
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -505,10 +507,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
@@ -557,4 +561,5 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
