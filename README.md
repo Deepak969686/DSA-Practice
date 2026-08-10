@@ -25,6 +25,7 @@
 | [0120-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Deepak969686/DSA-Practice/tree/master/0198-house-robber) |
@@ -134,6 +135,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
@@ -182,6 +184,7 @@
 | [0118-pascals-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Deepak969686/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0213-house-robber-ii) |
@@ -395,6 +398,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Deepak969686/DSA-Practice/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -506,6 +510,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -588,4 +593,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
