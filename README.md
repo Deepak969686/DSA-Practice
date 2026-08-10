@@ -178,6 +178,7 @@
 | [0062-unique-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Deepak969686/DSA-Practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Deepak969686/DSA-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepak969686/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Deepak969686/DSA-Practice/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
