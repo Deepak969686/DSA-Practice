@@ -141,6 +141,7 @@
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -297,6 +298,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -403,6 +405,7 @@
 | [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -490,6 +493,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Deepak969686/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
