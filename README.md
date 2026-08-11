@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/Deepak969686/DSA-Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Deepak969686/DSA-Practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Deepak969686/DSA-Practice/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
@@ -475,6 +477,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak969686/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
