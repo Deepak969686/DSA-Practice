@@ -248,6 +248,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepak969686/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -352,6 +353,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepak969686/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -378,6 +380,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepak969686/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
