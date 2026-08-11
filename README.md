@@ -49,6 +49,7 @@
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Deepak969686/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -212,6 +213,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
@@ -235,6 +237,7 @@
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Deepak969686/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -521,6 +524,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Deepak969686/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -638,4 +642,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
