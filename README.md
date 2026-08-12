@@ -38,6 +38,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak969686/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -183,6 +184,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -208,6 +210,7 @@
 | [0213-house-robber-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
@@ -305,6 +308,7 @@
 | [0088-merge-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak969686/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -630,6 +634,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Nim Game
 |  |
