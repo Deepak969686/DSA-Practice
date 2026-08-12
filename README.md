@@ -67,6 +67,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak969686/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak969686/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -160,6 +161,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak969686/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -589,6 +591,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting Sort
 |  |
 | ------- |
