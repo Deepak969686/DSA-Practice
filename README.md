@@ -95,6 +95,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Deepak969686/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak969686/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepak969686/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
@@ -266,6 +268,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -276,6 +279,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Deepak969686/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak969686/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Deepak969686/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -660,4 +664,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
