@@ -5,23 +5,24 @@ class Solution {
         Arrays.fill(color,-1);
         for (int i = 0; i < n; i++) {
             if (color[i] == -1) {
-                if (!dfs(i, 0, color, graph)) {
+                if (!bfs(i, color, graph)) {
                     return false;
                 }
             }
         }
         return true;
     }
-    private boolean dfs(int node, int col,int[] color, int[][] graph) {
-        color[node] = col;
-        for (int nbr : graph[node]) {
-            if (color[nbr] == -1) {
-                if (!dfs(nbr, 1 - col, color, graph)) {
-                    return false;
-                }
-            }
-            else if (color[nbr] == col) {
-                return false;
+    private boolean bfs(int start,int[] color,int[][] graph){
+        Queue<Integer> q=new LinkedList<>();
+        color[start]=0;
+        q.offer(start);
+        while(!q.isEmpty()){
+            int node=q.poll();
+            for(int nbr:graph[node]){
+                if(color[nbr]==-1){
+                    color[nbr]=1-color[node];
+                    q.offer(nbr);
+                } else if(color[nbr]==color[node]) return false;
             }
         }
         return true;
