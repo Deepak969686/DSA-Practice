@@ -171,6 +171,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepak969686/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak969686/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -456,6 +457,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak969686/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak969686/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -611,6 +613,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak969686/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
