@@ -46,6 +46,7 @@
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Deepak969686/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -164,6 +165,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Deepak969686/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -485,6 +487,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Deepak969686/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
