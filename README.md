@@ -66,6 +66,7 @@
 | [1288-remove-covered-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak969686/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -175,6 +176,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -531,6 +533,7 @@
 | [0948-bag-of-tokens](https://github.com/Deepak969686/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -542,6 +545,7 @@
 | [0090-subsets-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Deepak969686/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
