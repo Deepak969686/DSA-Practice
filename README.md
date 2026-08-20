@@ -85,6 +85,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Deepak969686/DSA-Practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Deepak969686/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -152,6 +153,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak969686/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Deepak969686/DSA-Practice/tree/master/3446-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
 | ------- |
@@ -348,6 +350,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3446-sort-matrix-by-diagonals](https://github.com/Deepak969686/DSA-Practice/tree/master/3446-sort-matrix-by-diagonals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepak969686/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
