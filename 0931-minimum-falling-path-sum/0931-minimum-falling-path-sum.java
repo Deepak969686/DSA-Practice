@@ -1,66 +1,35 @@
 class Solution {
-
+    int m, n;
+    int[][] dp;
+    boolean[][] visited;
     public int minFallingPathSum(int[][] matrix) {
-
-        int n = matrix.length;
-        int[][] dp = new int[n][n];
-
-        // Base Case
-        for (int col = 0; col < n; col++) {
-            dp[n - 1][col] = matrix[n - 1][col];
-        }
-
-        // Fill DP from bottom to top
-        for (int r = n - 2; r >= 0; r--) {
-            for (int c = 0; c < n; c++) {
-
-                int down = dp[r + 1][c];
-
-                int downLeft = (c > 0) ? dp[r + 1][c - 1] : Integer.MAX_VALUE;
-
-                int downRight = (c < n - 1) ? dp[r + 1][c + 1] : Integer.MAX_VALUE;
-
-                dp[r][c] = matrix[r][c] +
-                        Math.min(down, Math.min(downLeft, downRight));
-            }
-        }
-
+        m = matrix.length;
+        n = matrix[0].length;
+        dp = new int[m][n];
+        visited=new boolean[m][n];
         int ans = Integer.MAX_VALUE;
-
-        for (int col = 0; col < n; col++) {
-            ans = Math.min(ans, dp[0][col]);
+        for (int j = 0; j < n; j++) {
+            ans = Math.min(ans, solve(0, j, matrix));
         }
-
         return ans;
     }
+
+    int solve(int i, int j, int[][] matrix) {
+        if (i == m - 1)
+            return matrix[i][j];
+        if (visited[i][j]) {
+            return dp[i][j];
+        }
+        int leftdown = Integer.MAX_VALUE / 2;
+        int down = Integer.MAX_VALUE / 2;
+        int rightdown = Integer.MAX_VALUE / 2;
+        if (j - 1 >= 0)
+            leftdown = solve(i + 1, j - 1, matrix);
+        down = solve(i + 1, j, matrix);
+        if (j + 1 < n)
+            rightdown = solve(i + 1, j + 1, matrix);
+        
+        visited[i][j]=true;
+        return dp[i][j] =matrix[i][j] +Math.min(leftdown, Math.min(down, rightdown));
+    }
 }
-
-// class Solution {
-//     int n;
-//     int[][] dp;
-//     public int minFallingPathSum(int[][] matrix) {
-//         n = matrix.length;
-//         int ans = Integer.MAX_VALUE;
-//         dp=new int[n][n];
-
-//         for (int[] row : dp) {
-//             Arrays.fill(row, Integer.MAX_VALUE);
-//         }
-
-//         for (int col = 0; col < n; col++) {
-//             ans = Math.min(ans, solve(matrix, 0, col));
-//         }
-//         return ans;
-//     }
-//     private int solve(int[][] matrix, int r, int c) {
-//         if (c < 0 || c >= n)
-//             return Integer.MAX_VALUE;
-//         if (r == n - 1)
-//             return matrix[r][c];
-//         if(dp[r][c]!=Integer.MAX_VALUE) return dp[r][c];
-//         int downLeft = solve(matrix, r + 1, c - 1);
-//         int down = solve(matrix, r + 1, c);
-//         int downRight = solve(matrix, r + 1, c + 1);
-//         return dp[r][c]=matrix[r][c] +Math.min(downLeft, Math.min(down, downRight));
-//     }
-// }
