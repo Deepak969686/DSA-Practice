@@ -109,6 +109,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Deepak969686/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Deepak969686/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -245,6 +246,7 @@
 | [0152-maximum-product-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Deepak969686/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
@@ -457,6 +459,7 @@
 | [0050-powx-n](https://github.com/Deepak969686/DSA-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
@@ -756,6 +759,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
@@ -763,4 +767,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
