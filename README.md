@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak969686/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -246,6 +247,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+| [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
@@ -748,4 +750,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
