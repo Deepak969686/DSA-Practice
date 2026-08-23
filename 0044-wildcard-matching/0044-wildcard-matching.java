@@ -30,6 +30,6 @@ class Solution {
             return dp[i][j]= solve(i - 1, j, s, p) || solve(i, j - 1, s, p);
         }
 
-        return  false;
+        return dp[i][j]  =false;
     }
 }
