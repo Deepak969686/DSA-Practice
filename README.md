@@ -231,6 +231,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0062-unique-paths) |
@@ -491,6 +492,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Deepak969686/DSA-Practice/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Deepak969686/DSA-Practice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0097-interleaving-string) |
@@ -561,6 +563,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -647,6 +650,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Deepak969686/DSA-Practice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
