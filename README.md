@@ -79,6 +79,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak969686/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
@@ -280,6 +281,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak969686/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -481,6 +483,7 @@
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -553,6 +556,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search Tree
@@ -711,6 +715,7 @@
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
@@ -725,12 +730,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Longest Common Subsequence
 |  |
