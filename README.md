@@ -55,6 +55,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Deepak969686/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
@@ -125,6 +126,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Deepak969686/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -207,6 +209,7 @@
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/Deepak969686/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -538,6 +541,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
@@ -819,6 +823,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Deepak969686/DSA-Practice/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
