@@ -56,6 +56,7 @@
 | [0724-find-pivot-index](https://github.com/Deepak969686/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
@@ -128,6 +129,7 @@
 | [0684-redundant-connection](https://github.com/Deepak969686/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -174,6 +177,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Deepak969686/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Deepak969686/DSA-Practice/tree/master/0498-diagonal-traverse) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Deepak969686/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -251,6 +255,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Deepak969686/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -351,6 +356,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Deepak969686/DSA-Practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -365,6 +371,7 @@
 | [0200-number-of-islands](https://github.com/Deepak969686/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Deepak969686/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Deepak969686/DSA-Practice/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak969686/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -757,11 +764,13 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepak969686/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
