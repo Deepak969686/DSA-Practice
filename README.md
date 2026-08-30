@@ -88,6 +88,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Deepak969686/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepak969686/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak969686/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak969686/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -652,6 +653,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepak969686/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
