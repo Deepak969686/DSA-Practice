@@ -262,6 +262,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Deepak969686/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/Deepak969686/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
@@ -884,4 +885,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Deepak969686/DSA-Practice/tree/master/0207-course-schedule) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Deepak969686/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
