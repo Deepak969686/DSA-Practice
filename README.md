@@ -84,6 +84,7 @@
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1539-kth-missing-positive-number](https://github.com/Deepak969686/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -279,6 +280,7 @@
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak969686/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Deepak969686/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
