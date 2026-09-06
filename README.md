@@ -83,6 +83,7 @@
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
@@ -276,6 +277,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Deepak969686/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -444,6 +446,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/Deepak969686/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak969686/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepak969686/DSA-Practice/tree/master/3446-sort-matrix-by-diagonals) |
