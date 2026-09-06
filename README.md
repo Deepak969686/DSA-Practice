@@ -281,6 +281,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak969686/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Deepak969686/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -558,6 +559,7 @@
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Deepak969686/DSA-Practice/tree/master/1563-stone-game-v) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
@@ -677,6 +679,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Deepak969686/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
