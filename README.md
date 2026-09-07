@@ -329,6 +329,7 @@
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -604,6 +605,7 @@
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
+| [0940-distinct-subsequences-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
