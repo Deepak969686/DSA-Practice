@@ -66,6 +66,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Deepak969686/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepak969686/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Deepak969686/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -177,6 +178,7 @@
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -359,6 +361,7 @@
 | [0190-reverse-bits](https://github.com/Deepak969686/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -446,6 +449,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Deepak969686/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -558,6 +562,7 @@
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepak969686/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/Deepak969686/DSA-Practice/tree/master/1390-four-divisors) |
 | [1510-stone-game-iv](https://github.com/Deepak969686/DSA-Practice/tree/master/1510-stone-game-iv) |
@@ -914,4 +919,16 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Deepak969686/DSA-Practice/tree/master/0278-first-bad-version) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
