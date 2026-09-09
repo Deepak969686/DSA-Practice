@@ -176,6 +176,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -429,6 +430,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Deepak969686/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Deepak969686/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -449,6 +451,7 @@
 | [0088-merge-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Deepak969686/DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Deepak969686/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -742,6 +745,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Deepak969686/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
@@ -958,5 +962,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
