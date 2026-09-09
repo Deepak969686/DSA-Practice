@@ -45,6 +45,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak969686/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/Deepak969686/DSA-Practice/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Deepak969686/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/Deepak969686/DSA-Practice/tree/master/0480-sliding-window-median) |
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Deepak969686/DSA-Practice/tree/master/0743-network-delay-time) |
@@ -237,6 +239,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Deepak969686/DSA-Practice/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Deepak969686/DSA-Practice/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -821,6 +824,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak969686/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/Deepak969686/DSA-Practice/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Deepak969686/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepak969686/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -964,4 +968,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepak969686/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Deepak969686/DSA-Practice/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
