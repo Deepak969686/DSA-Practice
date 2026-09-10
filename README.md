@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Deepak969686/DSA-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Deepak969686/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepak969686/DSA-Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Deepak969686/DSA-Practice/tree/master/0048-rotate-image) |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0062-unique-paths) |
@@ -705,6 +707,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0410-split-array-largest-sum) |
