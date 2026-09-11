@@ -22,6 +22,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Deepak969686/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Deepak969686/DSA-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Deepak969686/DSA-Practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -202,6 +203,7 @@
 | [0063-unique-paths-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Deepak969686/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Deepak969686/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Deepak969686/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
@@ -382,6 +384,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Deepak969686/DSA-Practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0100-same-tree) |
@@ -628,6 +631,7 @@
 | [0020-valid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Deepak969686/DSA-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Deepak969686/DSA-Practice/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Deepak969686/DSA-Practice/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Deepak969686/DSA-Practice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Deepak969686/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -671,6 +675,7 @@
 | [0047-permutations-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Deepak969686/DSA-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Deepak969686/DSA-Practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Deepak969686/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
