@@ -80,6 +80,7 @@
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Deepak969686/DSA-Practice/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak969686/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/1288-remove-covered-intervals) |
@@ -210,6 +211,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Deepak969686/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/Deepak969686/DSA-Practice/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Deepak969686/DSA-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Deepak969686/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
@@ -679,6 +681,7 @@
 | [0090-subsets-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
+| [1219-path-with-maximum-gold](https://github.com/Deepak969686/DSA-Practice/tree/master/1219-path-with-maximum-gold) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
