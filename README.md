@@ -62,6 +62,7 @@
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Deepak969686/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
@@ -350,6 +351,7 @@
 | [0518-coin-change-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepak969686/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
