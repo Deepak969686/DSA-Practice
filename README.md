@@ -65,6 +65,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Deepak969686/DSA-Practice/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
@@ -210,6 +211,7 @@
 | [0200-number-of-islands](https://github.com/Deepak969686/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Deepak969686/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Deepak969686/DSA-Practice/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Deepak969686/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
