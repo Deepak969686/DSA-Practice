@@ -1,36 +1,35 @@
 class Solution {
-    int n;
-    int[][] dp;
-    public int maxPalindromes(String s, int k) {
-        n = s.length();
-        if(k==1) return n;
-        dp=new int[n+1][n+1];
-        for(int[] rows:dp) Arrays.fill(rows,-1);
-        return solve(s, k, 0, k - 1);
-    }
-
-    int solve(String s, int k, int i, int j) {
-        if (i >= n || j >= n)
-            return 0;
-        if(dp[i][j]!=-1) return dp[i][j];    
-        if (isPalindrom(s, i, j)) {
-            int take = 1 + solve(s, k, j + 1, j + k);
-            int grow = solve(s, k, i, j + 1);
-            int slide = solve(s, k, i + 1, j + 1);
-            return dp[i][j]= Math.max(take,Math.max( grow, slide));
-        }
-        int grow = solve(s, k, i, j + 1);
-        int slide = solve(s, k, i + 1, j + 1);
-        return dp[i][j]= Math.max(grow,slide);
-    }
-    boolean isPalindrom(String s,int i,int j){
-        while(i<=j){
-            if(s.charAt(i)!=s.charAt(j)){
-                return false;
-            }
-            i++;
-            j--;
+    public boolean isPalindrome(String s, int i, int j) {
+        while (i < j) {
+            if (s.charAt(i++) != s.charAt(j--)) return false;
         }
         return true;
+    }
+
+    public int maxPalindromes(String s, int k) {
+        int n = s.length();
+        if (k == 1)
+            return n; //each character can be a substring
+
+        int[][] t = new int[n + 1][n + 1];
+
+        for (int i = n - 1; i >= 0; --i) {
+            for (int j = n - 1; j >= i; --j) {
+
+                if (isPalindrome(s, i, j)) {
+                    int growWindow  = t[i][j + 1];
+                    int takeIt      = 1 + (j + k <= n ? t[j + 1][j + k] : 0);
+                    int slideWindow = t[i + 1][j + 1];
+
+                    t[i][j] = Math.max(growWindow, Math.max(takeIt, slideWindow));
+                }
+
+                int slideWindow = t[i + 1][j + 1];
+                int growWindow  = t[i][j + 1];
+                t[i][j] = Math.max(t[i][j], Math.max(slideWindow, growWindow));
+            }
+        }
+
+        return t[0][k - 1];
     }
 }
