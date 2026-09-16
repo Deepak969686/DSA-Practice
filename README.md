@@ -66,6 +66,7 @@
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Deepak969686/DSA-Practice/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Deepak969686/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
@@ -304,6 +305,7 @@
 | [0493-reverse-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepak969686/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Deepak969686/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -1013,4 +1015,8 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Deepak969686/DSA-Practice/tree/master/0480-sliding-window-median) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
