@@ -16,37 +16,30 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> ans=new ArrayList<>();
-        if (root == null) return ans;
-        Deque<TreeNode> dq=new LinkedList<>();
-        dq.offerFirst(root);
+        Queue<TreeNode> q=new LinkedList<>();
+        if(root==null) return ans;
+        q.offer(root);
         boolean LTR=true;
-        while(!dq.isEmpty()){
-            int size=dq.size();
-            List<Integer> level=new ArrayList<>();
-            for(int i=0;i<size;i++){
+        while(!q.isEmpty()){
+            int size=q.size();
+            List<Integer> list=new ArrayList<>();
+            while(size-->0){
                 if(LTR){
-                    TreeNode node=dq.pollFirst();
-                    level.add(node.val);
-                    if(node.left!=null){
-                        dq.offerLast(node.left);
-                    }
-                    if(node.right!=null){
-                        dq.offerLast(node.right);
-                    }
+                    TreeNode node=q.poll();
+                    list.add(node.val);
+                    if(node.left!=null) q.offer(node.left);
+                    if(node.right!=null) q.offer(node.right);
                 } else{
-                    TreeNode node=dq.pollLast();
-                    level.add(node.val);
-                    if(node.right!=null){
-                        dq.offerFirst(node.right);
-                    }
-                    if(node.left!=null){
-                        dq.offerFirst(node.left);
-                    }
-
+                    TreeNode node=q.poll();
+                    list.add(node.val);
+                    if(node.left!=null) q.offer(node.left);
+                    if(node.right!=null) q.offer(node.right);
+                   
                 }
             }
-            ans.add(level);
-            LTR = !LTR;
+            if(!LTR)  Collections.reverse(list);
+            ans.add(list);
+            LTR=!LTR;
         }
         return ans;
     }
