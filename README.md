@@ -66,6 +66,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Deepak969686/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
+| [0815-bus-routes](https://github.com/Deepak969686/DSA-Practice/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/Deepak969686/DSA-Practice/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Deepak969686/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
@@ -164,6 +165,7 @@
 | [0778-swim-in-rising-water](https://github.com/Deepak969686/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Deepak969686/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepak969686/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/Deepak969686/DSA-Practice/tree/master/0815-bus-routes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Deepak969686/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -268,6 +270,7 @@
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
+| [0815-bus-routes](https://github.com/Deepak969686/DSA-Practice/tree/master/0815-bus-routes) |
 | [0904-fruit-into-baskets](https://github.com/Deepak969686/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
