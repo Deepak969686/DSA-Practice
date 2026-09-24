@@ -84,6 +84,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Deepak969686/DSA-Practice/tree/master/1219-path-with-maximum-gold) |
@@ -380,6 +381,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1049-last-stone-weight-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1143-longest-common-subsequence) |
@@ -1008,11 +1010,13 @@
 | [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Deepak969686/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
