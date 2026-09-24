@@ -393,6 +393,7 @@
 | [1872-stone-game-viii](https://github.com/Deepak969686/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepak969686/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepak969686/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/Deepak969686/DSA-Practice/tree/master/2484-count-palindromic-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Deepak969686/DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Deepak969686/DSA-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -704,6 +705,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak969686/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Deepak969686/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2484-count-palindromic-subsequences](https://github.com/Deepak969686/DSA-Practice/tree/master/2484-count-palindromic-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Deepak969686/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Deepak969686/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
