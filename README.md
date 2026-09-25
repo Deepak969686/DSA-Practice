@@ -171,6 +171,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Deepak969686/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Deepak969686/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Deepak969686/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Deepak969686/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -278,6 +279,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepak969686/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Deepak969686/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -516,6 +518,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Deepak969686/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepak969686/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Deepak969686/DSA-Practice/tree/master/1329-sort-the-matrix-diagonally) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -559,6 +562,7 @@
 | [0496-next-greater-element-i](https://github.com/Deepak969686/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deepak969686/DSA-Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -702,6 +706,7 @@
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Deepak969686/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Deepak969686/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Deepak969686/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -735,6 +740,7 @@
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Deepak969686/DSA-Practice/tree/master/1219-path-with-maximum-gold) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Deepak969686/DSA-Practice/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
