@@ -159,6 +159,7 @@
 | [0200-number-of-islands](https://github.com/Deepak969686/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Deepak969686/DSA-Practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Deepak969686/DSA-Practice/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Deepak969686/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -701,6 +702,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Deepak969686/DSA-Practice/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Deepak969686/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepak969686/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -753,6 +755,7 @@
 | [0093-restore-ip-addresses](https://github.com/Deepak969686/DSA-Practice/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Deepak969686/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Deepak969686/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Deepak969686/DSA-Practice/tree/master/0980-unique-paths-iii) |
 | [1096-brace-expansion-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/1096-brace-expansion-ii) |
