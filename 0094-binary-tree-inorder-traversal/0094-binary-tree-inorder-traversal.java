@@ -24,6 +24,6 @@ class Solution {
         inorder(ans,root.left);
         ans.add(root.val);
         inorder(ans,root.right);
-
+      
     }
 }
