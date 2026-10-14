@@ -279,6 +279,7 @@
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Deepak969686/DSA-Practice/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/Deepak969686/DSA-Practice/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/Deepak969686/DSA-Practice/tree/master/0815-bus-routes) |
 | [0904-fruit-into-baskets](https://github.com/Deepak969686/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -497,6 +498,7 @@
 | [0567-permutation-in-string](https://github.com/Deepak969686/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deepak969686/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Deepak969686/DSA-Practice/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Deepak969686/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -722,6 +724,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/Deepak969686/DSA-Practice/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/Deepak969686/DSA-Practice/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Deepak969686/DSA-Practice/tree/master/1048-longest-string-chain) |
@@ -818,6 +821,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Deepak969686/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Deepak969686/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Deepak969686/DSA-Practice/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Deepak969686/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Deepak969686/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Deepak969686/DSA-Practice/tree/master/0948-bag-of-tokens) |
