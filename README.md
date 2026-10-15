@@ -293,6 +293,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Deepak969686/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Deepak969686/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Deepak969686/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -541,6 +542,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Deepak969686/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Deepak969686/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak969686/DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak969686/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -560,6 +562,7 @@
 | [0692-top-k-frequent-words](https://github.com/Deepak969686/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepak969686/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Deepak969686/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Deepak969686/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/Deepak969686/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Deepak969686/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -744,6 +747,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Deepak969686/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Deepak969686/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepak969686/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Deepak969686/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak969686/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
