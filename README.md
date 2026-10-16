@@ -116,6 +116,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak969686/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Deepak969686/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepak969686/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2352-equal-row-and-column-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak969686/DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepak969686/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak969686/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -242,6 +243,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Deepak969686/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Deepak969686/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepak969686/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2352-equal-row-and-column-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Deepak969686/DSA-Practice/tree/master/3446-sort-matrix-by-diagonals) |
@@ -298,6 +300,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Deepak969686/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepak969686/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepak969686/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/Deepak969686/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -911,6 +914,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Deepak969686/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Deepak969686/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
