@@ -24,4 +24,5 @@ class Solution {
         if(maxLen == -1) return -1;
         return n - maxLen;
     }
+
 }
