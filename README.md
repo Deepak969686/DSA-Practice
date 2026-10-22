@@ -118,6 +118,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Deepak969686/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Deepak969686/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Deepak969686/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deepak969686/DSA-Practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak969686/DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepak969686/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -221,6 +222,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Deepak969686/DSA-Practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepak969686/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Deepak969686/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deepak969686/DSA-Practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Deepak969686/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Deepak969686/DSA-Practice/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -305,6 +307,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Deepak969686/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Deepak969686/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Deepak969686/DSA-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deepak969686/DSA-Practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/Deepak969686/DSA-Practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Deepak969686/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Deepak969686/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -555,6 +558,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Deepak969686/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Deepak969686/DSA-Practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Deepak969686/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Deepak969686/DSA-Practice/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Deepak969686/DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Deepak969686/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepak969686/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
